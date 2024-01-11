@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.insightblooms.com
+
+# Sitemaps
+Sitemap: https://www.insightblooms.com/sitemap.xml
